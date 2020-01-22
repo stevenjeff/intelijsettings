@@ -1,0 +1,21 @@
+<templateSet group="custom">
+  <template name="md" value="/**&#10;* @description&#10;* @param &#10;* @return &#10;* @author zhangfangrui&#10;* @date $date$ $time$ &#10;*/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="/**&#10; * @description&#10; * @author zhangfangrui&#10; * @date $DATE$ $TIME$&#10;*/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fd" value="/**&#10; *&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

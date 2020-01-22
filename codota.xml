@@ -1,0 +1,20 @@
+<application>
+  <component name="CodotaSettings">
+    <option name="methodCompletionsPercentageSet" value="true" />
+    <option name="overrideDoubleCtrlOpenSearch" value="true" />
+    <option name="id" value="df737013-af02-47c9-8b3d-695806935c8b" />
+    <option name="wasRunBefore" value="true" />
+    <option name="firstRun" value="1575020063117" />
+    <option name="generation" value="71" />
+    <option name="updateGeneration" value="1" />
+    <option name="isInJSBeta" value="YES" />
+    <option name="isMethodCompletionsPercentageActive" value="true" />
+    <option name="isMethodCompletionsPercentageSet" value="true" />
+    <option name="isOverrideDoubleCtrlOpenSearch" value="true" />
+    <option name="featureFlags">
+      <map>
+        <entry key="js-deep-completions" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
