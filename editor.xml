@@ -3,10 +3,15 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="FONT_SCALE" value="1.25" />
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
