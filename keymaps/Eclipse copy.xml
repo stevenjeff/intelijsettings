@@ -1,5 +1,1 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="ShowColorPicker">
-    <keyboard-shortcut first-keystroke="shift q" />
-  </action>
-</keymap>
+<keymap version="1" name="Eclipse copy" parent="Eclipse" />
