@@ -6,6 +6,9 @@
           <option name="ENABLE_SYNC_SCROLL" value="false" />
         </PlaceSettings>
       </entry>
+      <entry key="VcsLogView">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
 </application>
