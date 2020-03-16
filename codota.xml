@@ -13,11 +13,13 @@
     <option name="isOverrideDoubleCtrlOpenSearch" value="true" />
     <option name="featureFlags">
       <map>
+        <entry key="java-deep-completions" value="true" />
         <entry key="js-deep-completions" value="true" />
       </map>
     </option>
     <option name="everTurnedOnFeatureFlags">
       <set>
+        <option value="java-deep-completions" />
         <option value="js-deep-completions" />
       </set>
     </option>
