@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="javap" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Java\jdk-11.0.4\bin\javap.exe" />
+      <option name="PARAMETERS" value="Arguments:-c $FileClass$" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/Java/jdk-11.0.4/bin" />
+    </exec>
+  </tool>
+</toolSet>
